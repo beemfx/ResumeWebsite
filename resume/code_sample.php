@@ -1,0 +1,27 @@
+<?php
+require('common.php');
+BeginPage('Code Samples');
+?>
+<?php DisplayTOC(); ?>
+<h1>Code Samples</h1>
+<p>
+Most non-commerical code that I've written is available at various repositories
+on the web. Emergence Tech and the game E.X.P.L.O.R., my best work yet, are not open source at
+this time. Note that "Beem Software" and "Beem Media" are me, Blaine Myers, and not an actual
+business entity.
+</p>
+<h2>GitHub</h2>
+<p>
+My open source projects may be viewed at <a href="https://github.com/beemfx/">https://github.com/beemfx/</a>. 
+This includes the full source code for ScrollGIN, a few other game 
+projects I have developed, and almost all non-commercial code that I've written.
+</p>
+
+<h2>SourceForge</h2>
+<p>
+The source for CornerBin is available at <a href="http://sourceforge.net/projects/cornerbin/">http://sourceforge.net/projects/cornerbin/</a>.
+</p>
+
+<?php
+EndPage();
+?>
