@@ -1,0 +1,119 @@
+body{background-color:black}
+div#main
+{
+background-color:white;
+width:800px;
+margin:2em auto;
+padding:1em;
+}
+
+div#resume
+{
+background-color:black;
+width:100%;
+margin:0;
+padding:0;
+}
+
+div#main a
+{
+color: #cc5555;
+text-decoration:none;
+}
+
+div#main a:hover
+{
+text-decoration:underline;
+}
+
+div#main a:visited
+{
+color: #aa5555;
+}
+
+div#main h1
+{
+text-align:center;
+margin-bottom:.2em;
+}
+
+div#main h2
+{
+margin:1em 2em 0 2em;
+border-bottom:1px solid black;
+text-transform: uppercase;
+font-size:14pt;
+}
+
+div#main h3
+{
+font-size:14pt;
+margin:.2em 4em;
+border:0;
+padding:0;
+}
+
+div#main p, div#main ul
+{
+margin:0 2em .75em 7em;
+border:0;
+padding:0;
+}
+
+div#main li
+{
+margin:0 1.2em;
+padding:0;
+border:0;
+}
+
+div#main img
+{
+text-align:center;
+width:75%;
+display:block;
+margin:1em auto;
+border:0;
+}
+
+div#resume img
+{
+text-align:center;
+width:100%;
+Display:block;
+margin:0;
+border:0;
+}
+
+div#main img.button
+{
+text-align:left;
+width:auto;
+display:inline;
+margin:0;
+border:0;
+vertical-align:middle;
+}
+
+div#main iframe
+{
+text-align:center;
+display:block;
+margin:1em auto;
+}
+
+div#toc
+{
+display:block;
+text-align:center;
+}
+
+div#toc a
+{
+color:black;
+}
+
+div#toc a:hover
+{
+text-decoration: underline;
+}
